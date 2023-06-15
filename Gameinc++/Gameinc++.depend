@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1598281571 source:d:\hsekar\c++ program\gameinc++\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+
