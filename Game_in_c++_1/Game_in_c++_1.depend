@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628355890 source:e:\hsekar_codes\c++ program\game_in_c++_1\main.cpp
+	<iostream>
+	<windows.h>
+
